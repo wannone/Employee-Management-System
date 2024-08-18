@@ -1,0 +1,30 @@
+html {
+  font-family: Inter var, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji,
+    Segoe UI Symbol;
+  background-color: #f7f7f7;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-header {
+  width: 50%;
+}
+
+.form-header h1 {
+  margin: 0px;
+}
+
+.form-header p {
+  margin-top: 8px;
+}
